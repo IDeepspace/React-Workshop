@@ -251,7 +251,7 @@ const tick = () => {
 setInterval(tick, 1000)
 ```
 
-![更新必要部分](http://ov86m4nsy.bkt.clouddn.com/granular-dom-updates.gif)
+![更新必要部分](https://github.com/IDeepspace/ImageHosting/raw/master/React/granular-dom-updates.gif)
 
 
 
