@@ -22,7 +22,7 @@ npm start
 
 执行完上述命令之后，你可以直接打开 http://localhost:3000，即可以看到你 `React APP` 的运行效果： 
 
-![create-react-app](http://ov86m4nsy.bkt.clouddn.com/create-react-app.png) 
+![create-react-app](https://github.com/IDeepspace/ImageHosting/raw/master/React/create-react-app.png) 
 
 **目录结构：** 
 
